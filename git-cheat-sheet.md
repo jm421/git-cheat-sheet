@@ -47,4 +47,5 @@
 
 ## Other:
 **`.gitignore` file**                               = Can be used to tell git to ignore certain files when doing 'add -all' or 'commit -all'
+
 **`.git` directory**                                = Created in current directory after a 'git init'. Contains all necessary version control information.

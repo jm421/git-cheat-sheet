@@ -28,7 +28,9 @@
 **`git --version`**                               = Check git version
 
 **`git config --global user.name = <username>`**  = Setting user name for commits
+
 **`git config --global user.email= <email>`**     = Setting email for commits (must match github email!)
+
 **`git config --list`**                           = Show all config values
 
 **`git help <verb> or git <verb> --help`**        = Man page for git verbs

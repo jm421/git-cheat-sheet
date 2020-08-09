@@ -5,7 +5,7 @@
 
 **`git clone <repo link>`**                       = Clones remote repo to current directory
 
-**`git init`**                                    = Creates git repository in the curent directory (creates hidden .git directory)
+**`git init`**                                    = Creates git repository in the current directory (creates hidden .git directory)
 
 **`git remote (-v for verbose)`**                 = Show remote repos
 
@@ -23,7 +23,7 @@
 
 **`git status`**                                  = Show which files got modified (differences between local files and local repo)
 
-**`git diff`**                                   = Show changes to files line by line
+**`git diff`**                                    = Show changes to files line by line
 
 **`git --version`**                               = Check git version
 
